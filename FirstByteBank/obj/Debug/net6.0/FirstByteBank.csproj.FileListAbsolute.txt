@@ -1,0 +1,15 @@
+C:\Users\Guilherme\source\repos\FirstByteBank\FirstByteBank\obj\Debug\net6.0\FirstByteBank.csproj.AssemblyReference.cache
+C:\Users\Guilherme\source\repos\FirstByteBank\FirstByteBank\obj\Debug\net6.0\FirstByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\source\repos\FirstByteBank\FirstByteBank\obj\Debug\net6.0\FirstByteBank.AssemblyInfoInputs.cache
+C:\Users\Guilherme\source\repos\FirstByteBank\FirstByteBank\obj\Debug\net6.0\FirstByteBank.AssemblyInfo.cs
+C:\Users\Guilherme\source\repos\FirstByteBank\FirstByteBank\obj\Debug\net6.0\FirstByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\FirstByteBank\FirstByteBank\bin\Debug\net6.0\FirstByteBank.exe
+C:\Users\Guilherme\source\repos\FirstByteBank\FirstByteBank\bin\Debug\net6.0\FirstByteBank.deps.json
+C:\Users\Guilherme\source\repos\FirstByteBank\FirstByteBank\bin\Debug\net6.0\FirstByteBank.runtimeconfig.json
+C:\Users\Guilherme\source\repos\FirstByteBank\FirstByteBank\bin\Debug\net6.0\FirstByteBank.dll
+C:\Users\Guilherme\source\repos\FirstByteBank\FirstByteBank\bin\Debug\net6.0\ref\FirstByteBank.dll
+C:\Users\Guilherme\source\repos\FirstByteBank\FirstByteBank\bin\Debug\net6.0\FirstByteBank.pdb
+C:\Users\Guilherme\source\repos\FirstByteBank\FirstByteBank\obj\Debug\net6.0\FirstByteBank.dll
+C:\Users\Guilherme\source\repos\FirstByteBank\FirstByteBank\obj\Debug\net6.0\ref\FirstByteBank.dll
+C:\Users\Guilherme\source\repos\FirstByteBank\FirstByteBank\obj\Debug\net6.0\FirstByteBank.pdb
+C:\Users\Guilherme\source\repos\FirstByteBank\FirstByteBank\obj\Debug\net6.0\FirstByteBank.genruntimeconfig.cache
